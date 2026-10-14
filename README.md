@@ -3,9 +3,9 @@
 A working Python + HTML/CSS/JavaScript prototype for ENEL3SF. The Python server runs the actual authentication, attendance validation, database writes and exports. There is no Node.js build step and no external CDN dependency.
 
 ## Main Contributors:
-- Ugeshan Naidu
-- Uzair Mahomed
-- Vahir Hurrienarain
+- Ugeshan Naidu (224015440)
+- Uzair Mahomed 
+- Vahir Hurrienarain (224011818)
 - Mohammed Khan
 
 ## Start on Windows
