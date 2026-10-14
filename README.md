@@ -6,7 +6,7 @@ A working Python + HTML/CSS/JavaScript prototype for ENEL3SF. The Python server 
 - Ugeshan Naidu (224015440)
 - Uzair Mahomed (224116082)
 - Vahir Hurrienarain (224011818)
-- Mohammed Khan
+- Mohammed Khan (224024987)
 
 ## Start on Windows
 
