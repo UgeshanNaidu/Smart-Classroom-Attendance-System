@@ -4,7 +4,7 @@ A working Python + HTML/CSS/JavaScript prototype for ENEL3SF. The Python server 
 
 ## Main Contributors:
 - Ugeshan Naidu (224015440)
-- Uzair Mahomed 
+- Uzair Mahomed (224116082)
 - Vahir Hurrienarain (224011818)
 - Mohammed Khan
 
