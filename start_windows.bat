@@ -13,6 +13,5 @@ if errorlevel 1 (
   pause
   exit /b 1
 )
-echo Open http://127.0.0.1:8080 in your browser.
-.venv\Scripts\python.exe httpserver.py --demo
+.venv\Scripts\python.exe lanDemo.py
 pause
